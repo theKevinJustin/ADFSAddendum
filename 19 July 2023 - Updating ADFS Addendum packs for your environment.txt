@@ -1,0 +1,25 @@
+#=============================================================
+# Active Directory Federation Services Addendum updates
+#=============================================================
+
+
+
+#=============================================================
+# Need to update for the DS and WA report tasks
+#=============================================================
+
+##LAB##
+##ADFSSERVERNAME1##
+##ADFSSERVERNAME2##
+
+
+# Update for SharePoint hybrid servers (VM, Premise, Cloud IaaS)
+#=============================================================
+Create simplified expression that encompasses these roles, and find/replace in the addendum.xml
+
+# Example in the pack:
+#==============================
+<Pattern>(?i)##ADFSSERVERNAME1##|##ADFSSERVERNAME1##|##LAB##</Pattern>
+
+
+
