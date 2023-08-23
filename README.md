@@ -5,7 +5,7 @@ Download here
 
 Microsoft Active Directory Federation Services 2016 Addendum - Management pack configures ADFS group and discovery, rules/monitors, tasks, recovery, and overrides to disable alert noise.
 
-https://kevinjustin.com/blog/2023/08/18/adds-addendum-packs/
+https://kevinjustin.com/blog/2023/08/18/adfs-addendum-pack/
 
 Version History:
 v1.0.1.5  18 Jul 2023 - Updated reports to informational, Disabled SAML verification rule, SQL Notification Registration monitor
