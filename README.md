@@ -1,7 +1,7 @@
 # ADFSAddendum
 Microsoft.Active.Directory.Federation.Services.2016.Addendum v1.0.1.8
 
-Download here
+Download [here](https://github.com/theKevinJustin/ADFSAddendum/blob/main/Microsoft.Active.Directory.Federation.Services.2016.Addendum.xml)
 
 ### Microsoft Active Directory Federation Services 2016 Addendum
 Management pack configures ADFS group and discovery, rules/monitors, tasks, recovery, and overrides to disable alert noise.
